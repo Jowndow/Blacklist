@@ -10,3 +10,4 @@
 		119801728:reban
 		4195361338:exploits
 		3871750990:exploiting (instant death)
+		102440538:grooming a minor
