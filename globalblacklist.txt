@@ -1,25 +1,14 @@
-
 		453654668:Harmful Off-Platform Speech or Behavior
-		453654668:Harmful Off-Platform Speech or Behavior
-		1843560919:testing
-		1843560919:test
-		556890703:test
-		895091285:test
 		4220527033:exploiting
 		139714035:exploiting
 		119801728:reban
 		4195361338:exploits
 		3871750990:exploiting (instant death)
-		102440538:grooming a minor
+		102440538:inappropiate behaviour
 		2744397623:Exploiting (proofs to ice_
-		null:Exploiting (TP and SK)
 		186005851:Exploiting
 		1844832010:exploit
 		1332728735:exploit
 		1332728735:Exploiting
-					1:test
-					539668390:1
-					1:test
-					1:test
-		895087249:test
 		3280191542:Exploiting
+		10879:test
