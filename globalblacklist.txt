@@ -34,3 +34,4 @@
 		1446184303:Exploiting
 		4646279221:exploiting
 		1074347101:exploiting
+		933397810:kill script
