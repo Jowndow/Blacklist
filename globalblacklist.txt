@@ -1,5 +1,6 @@
 		453654668:Harmful Off-Platform Speech or Behavior
 		4220527033:exploiting
+		139714035:exploiting
 		119801728:reban
 		4195361338:exploits
 		3871750990:exploiting (instant death)
@@ -52,3 +53,4 @@
 		1074347142:admitting ban evasion
 		4753968651:exploiting
 		1507255720:exploiting/glitching
+		1049782992:glitching
