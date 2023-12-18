@@ -55,3 +55,5 @@
 		86186084:usaf
 		3332177672:usaf
 		4568934918:usaf
+		2766311882:attempting to nuke a official saz faction
+		5339524465:idk
